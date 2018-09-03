@@ -17,6 +17,7 @@
     - [File Handling](#file-handling)
     - [Error Handling](#error-handling)
 - [Prisma Server Deployment](#small_red_triangle-prisma-server-deployment)
+- [Video Tutorials](#movie_camera-video-tutorials)
 - [Community](#family_man_woman_girl_boy--community)
 
 
@@ -31,7 +32,6 @@
 * [Reference Documentation](https://www.prismagraphql.com/docs/reference/ "Deep dive into how developing with Prisma works.")
 * [Tutorials](https://www.prismagraphql.com/docs/tutorials/ "Quick tutorials that walk you through practical examples and demonstrate concrete features of Prisma.")
 * [What is Prisma](https://www.prismagraphql.com/docs/reference/introduction/what-is-prisma-apohpae9ju)
-* [React Native and Prisma YouTube Tutorial Series](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy "Introduction for an eCommerce app built with React Native and Prisma GraphQL")
 * [Prisma Deep Dive Article](https://divu.in/prisma-deep-dive-3162dea2820c)
 * [Prisma Shop Example](https://github.com/KATT/shop "Full-stack React/Prisma/TS/GraphQL E-Commerce Example ")
 * [Angular Starter Project](https://github.com/coformatique/prisma-auth0-angular-starter)
@@ -57,7 +57,6 @@
 * [Collection of common scenarios](https://github.com/graphql-boilerplates/node-graphql-server/issues/35)
 * [Resolver Forwarding Example](https://github.com/graphcool/prisma/tree/master/examples/resolver-forwarding)
 * [Subscription Resolver Examples](https://github.com/graphcool/prisma-binding/issues/78)
-* [Subscription Resolver Example](https://github.com/graphcool/prisma/tree/master/examples/subscriptions)
 
 ### GraphQL Bindings
 
@@ -105,6 +104,10 @@
 * [Deployment to AWS EC2](https://www.graph.cool/forum/t/deployment-of-prisma-to-aws-ec2/2880?u=nilan)
 * [Serverless Template](https://www.graph.cool/forum/t/minimal-serverless-prisma-project-template/2827?u=nilan)
 * [AWS Fargate](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)
+
+## :movie_camera: Video tutorials
+* [React Native and Prisma YouTube Tutorial Series](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy "Introduction for an eCommerce app built with React Native and Prisma GraphQL")
+* [Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga](https://www.youtube.com/watch?v=-n30pzgnkW0&list=PLs2PzMqLzi7Xmx44xTLfOBCwCAxVgQvE_)
 
 ## :family_man_woman_girl_boy:  Community
 
