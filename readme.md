@@ -47,8 +47,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * :hammer: [Tutorials](https://www.prismagraphql.com/docs/tutorials/ "Quick tutorials that walk you through practical examples and demonstrate concrete features of Prisma.")
 * :open_book: [What is Prisma](https://www.prismagraphql.com/docs/reference/introduction/what-is-prisma-apohpae9ju)
 * :open_book: [Prisma Deep Dive Article](https://divu.in/prisma-deep-dive-3162dea2820c)
-* :eyes: [Prisma Shop Example](https://github.com/KATT/shop "Full-stack React/Prisma/TS/GraphQL E-Commerce Example ")
+* :eyes: [Prisma Shop Example](https://github.com/KATT/shop "Full-stack React/Prisma/TS/GraphQL E-Commerce Example")
 * :eyes: [Angular Starter Project](https://github.com/coformatique/prisma-auth0-angular-starter)
+* :eyes: [Boilerplate for a Fullstack GraphQL App with React & Prisma](https://github.com/alan345/naperg "Node Apollo Prisma Express React GraphQL")
 
 ## :mag: GraphQL Server Development
 
