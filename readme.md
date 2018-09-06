@@ -72,6 +72,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * :eyes: [Collection of common scenarios](https://github.com/graphql-boilerplates/node-graphql-server/issues/35)
 * :eyes: [Resolver Forwarding Example](https://github.com/graphcool/prisma/tree/master/examples/resolver-forwarding)
 * :eyes: [Subscription Resolver Examples](https://github.com/graphcool/prisma-binding/issues/78)
+* :open_book: [GraphQL Mutation Arguments Validation with Yup using graphql-middleware](https://medium.com/@jonathancardoso/graphql-mutation-arguments-validation-with-yup-using-graphql-middleware-645822fb748)
 
 ### GraphQL Bindings
 
