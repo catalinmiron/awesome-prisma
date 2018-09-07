@@ -51,6 +51,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * :eyes: [Angular Starter Project](https://github.com/coformatique/prisma-auth0-angular-starter)
 * :eyes: [Boilerplate for a Fullstack GraphQL App with React & Prisma](https://github.com/alan345/naperg "Node Apollo Prisma Express React GraphQL")
 * :eyes: [NestJS - Prisma - Apollo 2](https://github.com/awesome-graphql-space/server-nestjs "Bootstrap your Nestjs Prisma app within seconds")
+* :package: [RAN-PRISMA : React . GraphQL . Next.js . Prisma Toolkit](https://github.com/mshameer/ran-with-prisma "RAN-PRISMA : React . GraphQL . Next.js . Prisma Toolkit")
 
 ## :mag: GraphQL Server Development
 
