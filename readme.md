@@ -118,7 +118,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * :hammer: [Prisma Cloud](https://www.prismagraphql.com/docs/tutorials/cluster-deployment/prisma-cloud-ua9gai4kie)
 * :eyes: [Prisma Docker](https://github.com/maxdarque/prisma-docker)
 * :eyes: [Prisma Docker Compose](https://github.com/akoenig/prisma-docker-compose/)
-* :hammer: [Kubernetes](https://www.prismagraphql.com/docs/tutorials/cluster-deployment/kubernetes-aiqu8ahgha)
+* :hammer: [Kubernetes](https://www.prisma.io/docs/tutorials/cluster-deployment/kubernetes-aiqu8ahgha)
 * :hammer: [Deployment to AWS EC2](https://www.graph.cool/forum/t/deployment-of-prisma-to-aws-ec2/2880?u=nilan)
 * :eyes: [Serverless Template](https://www.graph.cool/forum/t/minimal-serverless-prisma-project-template/2827?u=nilan)
 * :hammer: [AWS Fargate](https://blog.graph.cool/how-to-deploy-a-prisma-cluster-to-aws-fargate-using-docker-cloudformation-293aa8727b89)
