@@ -128,6 +128,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 * :movie_camera: [React Native and Prisma YouTube Tutorial Series](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy "Introduction for an eCommerce app built with React Native and Prisma GraphQL")
 * :movie_camera: [Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga](https://www.youtube.com/watch?v=-n30pzgnkW0&list=PLs2PzMqLzi7Xmx44xTLfOBCwCAxVgQvE_  "Overview: Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga")
 
+## :memo: Community Written Blog Posts
+* :memo: [Prisma Horizontal Scaling](https://techblog.commercetools.com/prisma-horizontal-scaling-a-practical-guide-3a05833d4fc3 "Prisma Horizontal Scaling: a practical guide")
+
 ## :family_man_woman_girl_boy:  Community
 
 - [GitHub](https://github.com/graphcool/prisma/)
