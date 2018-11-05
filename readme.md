@@ -123,7 +123,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ## :movie_camera: Video tutorials
 
 - :movie_camera: [React Native and Prisma YouTube Tutorial Series](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy "Introduction for an eCommerce app built with React Native and Prisma GraphQL")
-- :movie*camera: [Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga](https://www.youtube.com/watch?v=-n30pzgnkW0&list=PLs2PzMqLzi7Xmx44xTLfOBCwCAxVgQvE* "Overview: Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga")
+- :movie_camera: [Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga](https://www.youtube.com/watch?v=-n30pzgnkW0&list=PLs2PzMqLzi7Xmx44xTLfOBCwCAxVgQvE* "Overview: Build a ProductHunt GraphQL server with Prisma + GraphQL Yoga")
 
 ## :family_man_woman_girl_boy: Community
 
