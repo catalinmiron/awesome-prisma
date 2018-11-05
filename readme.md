@@ -129,7 +129,8 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 - [GitHub](https://github.com/prisma/prisma)
 - [Website](https://www.prisma.io)
-- [Docs](https://www.prismagra.io/docs/)
+- [Docs](https://www.prisma.io/docs/)
+- [Tutorials](https://www.prisma.io/tutorials)
 - [Blog](https://www.prisma.io/blog/)
 - [Forum](https://www.prisma.io/forum/)
 - [Slack](https://slack.prisma.io/)
