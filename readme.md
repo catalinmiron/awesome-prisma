@@ -14,7 +14,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - :open_book: - In-depth resources, like detailed articles
 - :eyes: - Examples and templates
 - :package: - Reusable software packages
-  :movie_camera: - Video Tutorial
+- :movie_camera: - Video Tutorial
 
 ## Contents
 
