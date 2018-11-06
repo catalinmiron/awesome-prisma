@@ -40,7 +40,6 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - :eyes: [Example Collection](https://github.com/prisma/prisma-examples "Wide range of generally useful examples.")
 - :eyes: [GraphQL Boilerplates](https://github.com/graphql-boilerplates/ "Collection of production-ready GraphQL boilerplate projects.")
 - :hammer: [Quickstart](https://www.prisma.io/docs/get-started/01-setting-up-prisma-demo-server-a001/ "The fastest way to get up and running with Prisma, for backend and frontend developers.")
-- :open_book: [Reference Documentation](https://www.prisma.io/docs/ "Deep dive into how developing with Prisma works.")
 - :hammer: [Tutorials](https://www.prisma.io/tutorials/ "Step-by-step tutorials and articles to help people get the most out of the Prisma ecosystem.")
 - :open_book: [What is Prisma](https://www.prisma.io/docs/understand-prisma/prisma-introduction-what-why-how-j9ff/#what-is-prisma)
 - :open_book: [Prisma Deep Dive Article](https://divu.in/prisma-deep-dive-3162dea2820c)
