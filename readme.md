@@ -4,17 +4,16 @@
 
 # awesome-prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## :tipping_hand_woman: About this List
-
 This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") :heart_eyes:
 
-### :chart_with_upwards_trend: Legend
+Prisma is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
 
 - :hammer: - hands-on resources, like step-by-step tutorials
 - :open_book: - In-depth resources, like detailed articles
 - :eyes: - Examples and templates
 - :package: - Reusable software packages
 - :movie_camera: - Video Tutorial
+
 
 ## Contents
 
