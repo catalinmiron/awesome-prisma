@@ -38,7 +38,7 @@ Prisma is a performant open-source GraphQL ORM-like layer doing the heavy liftin
 - :eyes: [Reference Example](https://github.com/graphcool/graphql-server-example "GraphQL server example (Airbnb clone) using Prisma, `graphql-yoga` & `prisma-binding`.")
 - :eyes: [Example Collection](https://github.com/prisma/prisma-examples "Wide range of generally useful examples.")
 - :eyes: [GraphQL Boilerplates](https://github.com/graphql-boilerplates/ "Collection of production-ready GraphQL boilerplate projects.")
-- :hammer: [Quickstart](https://www.prisma.io/docs/get-started/01-setting-up-prisma-demo-server-a001/ "The fastest way to get up and running with Prisma, for backend and frontend developers.")
+- :hammer: [Quickstart](https://www.prisma.io/docs/get-started/01-setting-up-prisma-demo-server-JAVASCRIPT-a001/ "The fastest way to get up and running with Prisma, for backend and frontend developers.")
 - :hammer: [Tutorials](https://www.prisma.io/tutorials/ "Step-by-step tutorials and articles to help people get the most out of the Prisma ecosystem.")
 - :open_book: [What is Prisma](https://www.prisma.io/docs/understand-prisma/prisma-introduction-what-why-how-j9ff/#what-is-prisma)
 - :open_book: [Prisma Deep Dive Article](https://divu.in/prisma-deep-dive-3162dea2820c)
@@ -61,7 +61,7 @@ Prisma is a performant open-source GraphQL ORM-like layer doing the heavy liftin
 ### Server Deployment
 
 - :hammer: [Deploying a GraphQL Server with Apex Up](https://www.prisma.io/tutorials/deploy-a-graphql-server-with-apex-up-cs05/)
-- :hammer: [Deploying GraphQL Servers with Zeit Now](https://www.prisma.io/tutorials/deploy-prisma-to-zeit-now-ct16/)
+- :hammer: [Deploying GraphQL Servers with Zeit Now](https://www.prisma.io/tutorials/archived/deploy-prisma-to-zeit-now-ct16/)
 - :eyes: [Apex Up and GraphQL Yoga Example](https://github.com/maxdarque/up-graphql-yoga-server-example "Tutorial on how deploy your graphql-yoga server on AWS Lambda with Apex Up")
 - :open_book: [Prisma Horizontal Scaling](https://techblog.commercetools.com/prisma-horizontal-scaling-a-practical-guide-3a05833d4fc3 "Prisma Horizontal Scaling: a practical guide")
 
