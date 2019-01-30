@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" width="300"/>
-</p>
+# [<p align="center"><img src="https://raw.githubusercontent.com/catalinmiron/awesome-prisma/master/awesome-prisma.png"></p>](https://prisma.io)
 
 # Awesome Prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
