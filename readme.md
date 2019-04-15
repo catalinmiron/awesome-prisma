@@ -7,7 +7,7 @@
   <p>This is a collection of awesome resources about <a href="https://www.prisma.io/" title="Build a GraphQL server with any database">Prisma</a></p>
 </div>
 
-Prisma is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
+[Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
 
 - :hammer: - Hands-on resources, like step-by-step tutorials
 - :open_book: - In-depth resources, like detailed articles
