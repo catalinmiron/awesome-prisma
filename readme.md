@@ -1,8 +1,11 @@
-# [<p align="center"><img src="https://raw.githubusercontent.com/catalinmiron/awesome-prisma/master/awesome-prisma.png"></p>](https://prisma.io)
-
-# Awesome Prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Build a GraphQL server with any database') :heart_eyes:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catalinmiron/awesome-prisma/master/awesome-prisma.png" width="500"/>
+  <br>
+  <a href="https://awesome.re">
+	  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <p>This is a collection of awesome resources about <a href="https://www.prisma.io/" title="Build a GraphQL server with any database">Prisma</a></p>
+</div>
 
 Prisma is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
 
