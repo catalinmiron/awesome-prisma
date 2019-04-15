@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catalinmiron/awesome-prisma/master/awesome-prisma.png" width="500"/>
+<div align='center'>
+  	<img width="500" src="logo.svg" alt="awesome-lint">
   <br>
-  <a href="https://awesome.re">
-	  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  <a href='https://awesome.re'>
+	  <img src='https://awesome.re/badge.svg' alt='Awesome'>
   </a>
-  <p>This is a collection of awesome resources about <a href="https://www.prisma.io/" title="Build a GraphQL server with any database">Prisma</a></p>
+  <p>This is a collection of awesome resources about <a href='https://www.prisma.io/' title='Build a GraphQL server with any database'>Prisma</a></p>
 </div>
 
-[Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
+[Prisma](https://www.prisma.io/ 'Build a GraphQL server with any database') is a performant open-source GraphQL ORM-like layer doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via GraphQL bindings.
 
 - :hammer: - Hands-on resources, like step-by-step tutorials
 - :open_book: - In-depth resources, like detailed articles
@@ -43,7 +43,6 @@
 - :open_book: [What is Prisma](https://www.prisma.io/docs/understand-prisma/prisma-introduction-what-why-how-j9ff/#what-is-prisma)
 - :open_book: [Prisma Deep Dive Article](https://divu.in/prisma-deep-dive-3162dea2820c)
 - :eyes: [Prisma Shop Example](https://github.com/KATT/shop 'Full-stack React/Prisma/TS/GraphQL E-Commerce Example')
-- :eyes: [Angular Starter Project](https://github.com/coformatique/prisma-auth0-angular-starter)
 - :eyes: [Boilerplate for a Fullstack GraphQL App with React & Prisma](https://github.com/alan345/naperg 'Node Apollo Prisma Express React GraphQL')
 - :eyes: [NestJS - Prisma - Apollo 2](https://github.com/awesome-graphql-space/server-nestjs 'Bootstrap your Nestjs Prisma app within seconds')
 - :eyes: [Graphql Microservice Starter](https://github.com/berstend/graphql-microservice-starter 'Nextgen backend stack using independent GraphQL services')
@@ -84,7 +83,6 @@
 - :eyes: [Email & Password Authentication Example](https://github.com/prisma/prisma-examples/tree/master/node/graphql-auth)
 - :hammer: [Authentication with GitHub OAuth2](https://medium.com/@maticzavadlal/graphcool-1-0-example-series-authentication-282f274b8343)
 - :eyes: [Facebook Authentication Example](https://github.com/harrisrobin/prisma-facebook-auth-example)
-- :eyes: [Auth0 Authentication Boilerplate](https://github.com/coformatique/prisma-auth0-starter)
 
 ### Permissions
 
@@ -97,7 +95,7 @@
 
 ### File Handling
 
-- :open_book: [File Handling with AWS S3, Prisma & graphql-yoga](https://manticarodrigo.com/file-handling-s3-prisma-graphql-yoga/)
+- :open_book: [File Handling with AWS S3, Prisma & graphql-yoga](http://bit.ly/file-handling-s3-prisma-graphql-yoga)
 - :open_book: [Handling files with Amazon S3 and Prisma](https://medium.com/@maticzavadlal/graphcool-1-0-examples-series-file-api-3b16b4b8785f)
 
 ### Error Handling
