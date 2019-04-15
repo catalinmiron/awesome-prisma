@@ -25,6 +25,7 @@ Prisma is a performant open-source GraphQL ORM-like layer doing the heavy liftin
   - [Subscriptions](#subscriptions)
   - [File Handling](#file-handling)
   - [Error Handling](#error-handling)
+  - [Multi-tenancy](#multi-tenancy)
 - [:small_red_triangle: Prisma Server Deployment](#small_red_triangle-prisma-server-deployment)
 - [:movie_camera: Video tutorials](#movie_camera-video-tutorials)
 - [:family_man_woman_girl_boy: Community](#family_man_woman_girl_boy-community)
@@ -100,6 +101,11 @@ Prisma is a performant open-source GraphQL ORM-like layer doing the heavy liftin
 ### Error Handling
 
 - :open_book: [Handling Errors in GraphQL](https://dev.to/andre/handling-errors-in-graphql--2ea3)
+
+### Multi-tenancy
+
+- :hammer: [Building a multi-tenant application with Prisma](https://medium.zenika.com/building-a-multi-tenant-application-with-prisma-11bf890304d6)
+- :package: [prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant)
 
 ## :small_red_triangle: Prisma Server Deployment
 
