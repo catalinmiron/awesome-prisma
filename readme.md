@@ -95,7 +95,7 @@
 
 ### File Handling
 
-- :open_book: [File Handling with AWS S3, Prisma & graphql-yoga](http://bit.ly/file-handling-s3-prisma-graphql-yoga)
+- :open_book: [File Handling with AWS S3, Prisma & graphql-yoga](https://www.prisma.io/forum/t/graphql-file-handling-with-aws-s3-prisma-graphql-yoga/2779)
 - :open_book: [Handling files with Amazon S3 and Prisma](https://medium.com/@maticzavadlal/graphcool-1-0-examples-series-file-api-3b16b4b8785f)
 
 ### Error Handling
