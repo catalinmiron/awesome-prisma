@@ -49,6 +49,7 @@
 - :eyes: [Graphql Microservice Starter](https://github.com/berstend/graphql-microservice-starter 'Nextgen backend stack using independent GraphQL services')
 - :package: [RAN-PRISMA : React . GraphQL . Next.js . Prisma Toolkit](https://github.com/mshameer/ran-with-prisma 'RAN-PRISMA : React . GraphQL . Next.js . Prisma Toolkit')
 - :open_book: [Prisma Docs Translated into Chinese](https://prisma.1wire.com/)
+- :eyes: [Fullstack Boilerplate using React Apollo Prisma Typescript](https://github.com/DylanMerigaud/react-prisma-typescript-fullstack)
 
 ## :mag: GraphQL Server Development
 
