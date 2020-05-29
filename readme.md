@@ -16,10 +16,11 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 * [Events](#-events)
 * [Community Prisma Tools](#-community-prisma-tools)
 * [How Tos](#-how-tos)
-* [Projects Using Prisma](#-projects-using-prisma)
 * [Tutorials](#-tutorials)
 * [YouTube](#-youtube)
 * [Community](#-community)
+* [Projects Using Prisma](#-projects-using-prisma)
+* [Prisma 1](#-prisma-1)
 * [Contribute](#-contribute)
 * [License](#-license)
 
@@ -51,11 +52,6 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 ## 🤔 How Tos
 * [How to GraphQL](https://www.howtographql.com/)
 * [PostgresQL Tutorials](https://www.prisma.io/tutorials/?tag=postgresql)
-    
-## 👾 Projects Using Prisma
-* [Tottem](https://github.com/poulainv/tottem)
-* [Tomorrow](https://www.tomorrowapp.io/)
-* [Predict Covid](https://predictcovid.com/)
    
 ## 🐦 Twitter
 * [Prisma](http://twitter.com/prisma)
@@ -82,6 +78,11 @@ Tutorials with [Nexus](https://www.nexusjs.org/#/)
 * [Blog](https://prisma.io/blog)
 * [Slack](https://slack.prisma.io/)
 * [Twitter](https://twitter.com/prisma)
+
+## 👾 Projects Using Prisma
+* [Tottem](https://github.com/poulainv/tottem)
+* [Tomorrow](https://www.tomorrowapp.io/)
+* [Predict Covid](https://predictcovid.com/)
 
 ## Contribute
 
