@@ -1,3 +1,26 @@
+![Awesome Prisma](https://i.imgur.com/MQdCTuN.png)
+
+<div align="center">
+  <a href="https://www.prisma.io/docs/getting-started/quickstart">Quickstart</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/docs/">Docs</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://github.com/prisma/prisma-examples/">Examples</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/blog">Blog</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://slack.prisma.io/">Slack</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://twitter.com/prisma">Twitter</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.youtube.com/watch?v=0RhtQgIs-TE&list=PLn2e1F9Rfr6k9PnR_figWOcSHgc_erDr5&index=1">Demo videos</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://github.com/prisma/prisma1">Prisma 1</a>
+</div>
+
+
 <p align="center">
     <img src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" width="300"/>
 </p>
@@ -14,17 +37,20 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 
 
 ## Table of Contents
-* [Docs](#-docs)
-* [Events](#-events)
-* [Community Prisma Tools](#-community-prisma-tools)
-* [How Tos](#-how-tos)
-* [Tutorials](#-tutorials)
-* [YouTube](#-youtube)
-* [Community](#-community)
-* [Projects Using Prisma](#-projects-using-prisma)
-* [Prisma 1](#-prisma-1)
-* [Contribute](#-contribute)
-* [License](#-license)
+- [awesome-prisma ![Awesome](https://awesome.re)](#awesome-prisma-img-srchttpsawesomerebadgesvg-altawesome)
+  - [:tipping_hand_woman: About this List](#tipping_hand_woman-about-this-list)
+  - [Table of Contents](#table-of-contents)
+  - [📚 Docs:](#-docs)
+  - [🎙 Events:](#-events)
+  - [🦺 Community Prisma Tools](#-community-prisma-tools)
+  - [🤔 How Tos](#-how-tos)
+  - [🐦 Twitter](#-twitter)
+  - [🏆‍ Tutorials](#-tutorials)
+  - [:family_man_woman_girl_boy:  Community](#family_man_woman_girl_boy-community)
+  - [👾 Projects Using Prisma](#-projects-using-prisma)
+  - [Contribute](#contribute)
+  - [Prisma 1](#prisma-1)
+  - [License](#license)
 
 
 ## 📚 Docs:
