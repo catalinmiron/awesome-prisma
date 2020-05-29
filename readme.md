@@ -2,11 +2,14 @@
     <img src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" width="300"/>
 </p>
 
+
 # awesome-prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 ## :tipping_hand_woman: About this List
 
-This is a collection of **awesome resources**  about [Prisma](https://www.prisma.io/ "Modern Database Access for TypeScript & Node.js") :heart_eyes:
+This is a collection of **awesome resources**  about [Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") :heart_eyes: Prisma is an open-source database toolkit. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
+
 
 ## Table of Contents
 * [Docs](#-docs)
@@ -20,6 +23,7 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 * [Contribute](#-contribute)
 * [License](#-license)
 
+
 ## 📚 Docs:
 
 *  [Prisma Docs](https://www.prisma.io/docs/)
@@ -27,7 +31,7 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
    
 ## 🎙 Events:
 
-* [Prisma Day (remote)](https://www.prisma.io/day/)
+* [Prisma Day (remote)](http://prisma.io/day)
 * [GraphQL Meetup (remote)](https://www.meetup.com/graphql-berlin/)
 * [TypeScript Meetup (remote)](https://www.meetup.com/TypeScript-Berlin/)
    
@@ -54,12 +58,12 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 * [Predict Covid](https://predictcovid.com/)
    
 ## 🐦 Twitter
-* [Prisma](https://twitter.com/prisma)
-* [Nexus](https://twitter.com/nexusgql)
+* [Prisma](http://twitter.com/prisma)
+* [Nexus](http://twitter.com/nexusgql)
     
 ## 🏆‍ Tutorials
 
-* [Get Started with Prisma 2 & Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
+* [Get started with Prisma v2. Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
 * [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 * [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 
@@ -68,18 +72,21 @@ Tutorials with [Nexus](https://www.nexusjs.org/#/)
 * [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
 * [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
 
+
+
 ## :family_man_woman_girl_boy:  Community
 
 * [GitHub](https://github.com/prisma/prisma/)
-* [Website](https://www.prisma.io/)
-* [Docs](https://www.prisma.io/docs/)
-* [Blog](https://www.prisma.io/blog)
+* [Website](https://prisma.io)
+* [Docs](https://prisma.io/docs/)
+* [Blog](https://prisma.io/blog)
 * [Slack](https://slack.prisma.io/)
 * [Twitter](https://twitter.com/prisma)
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
