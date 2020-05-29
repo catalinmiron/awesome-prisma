@@ -34,7 +34,7 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * [GraphQL Meetup (remote)](https://www.meetup.com/graphql-berlin/)
 * [TypeScript Meetup (remote)](https://www.meetup.com/TypeScript-Berlin/)
    
-### Community Prisma Tools
+## 🦺 Community Prisma Tools
 * [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 * [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
 * [@prisma-tools/nexus](https://prisma-tools.ahmedelywa.com/nexus/features)
@@ -47,20 +47,20 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 * [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
     
-### How Tos
+## 👩🏾‍🏫 How Tos
 * [How to GraphQL](https://www.howtographql.com/)
 * [PostgresQL Tutorials](https://www.prisma.io/tutorials/?tag=postgresql)
     
-### Projects Using Prisma
+## 👾 Projects Using Prisma
 * [Tottem](https://github.com/poulainv/tottem)
 * [Tomorrow](https://www.tomorrowapp.io/)
 * [Predict Covid](https://predictcovid.com/)
    
-### Twitter
+## 🐦 Twitter
 * [Prisma](http://twitter.com/prisma)
 * [Nexus](http://twitter.com/nexusgql)
     
-### Tutorials
+## 🦸🏿‍♂️ Tutorials
 GraphQL
 * [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
 * [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
@@ -71,8 +71,6 @@ Not GraphQL
 * [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 * [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 
-#### YouTube
-* [Prisma Youtube Channel](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
 
 ## :family_man_woman_girl_boy:  Community
 
