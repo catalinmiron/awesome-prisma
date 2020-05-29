@@ -6,7 +6,7 @@
 
 ## :tipping_hand_woman: About this List
 
-This is a collection of **awesome resources**  about [Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") :heart_eyes:
+This is a collection of **awesome resources**  about [Prisma](https://www.prisma.io/ "Modern Database Access for TypeScript & Node.js") :heart_eyes:
 
 ## Table of Contents
 * [Docs](#-docs)
