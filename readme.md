@@ -20,7 +20,9 @@
   <a href="https://github.com/prisma/prisma1">Prisma 1</a>
 </div>
 
-# awesome-prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-prisma
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## :tipping_hand_woman: About this List
 
@@ -30,7 +32,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## Table of Contents
 
-- [awesome-prisma ![Awesome](https://awesome.re)](#awesome-prisma-img-srchttpsawesomerebadgesvg-altawesome)
+- [awesome-prisma](#awesome-prisma)
   - [:tipping_hand_woman: About this List](#tipping_hand_woman-about-this-list)
   - [Table of Contents](#table-of-contents)
   - [📚 Docs:](#-docs)
