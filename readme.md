@@ -23,11 +23,13 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * License
 
 
-### Docs:
+## 📚 Docs:
+
 *  [Prisma Docs](https://www.prisma.io/docs/)
 *  [Prisma Examples](https://github.com/prisma/prisma-examples)
    
-### Events:
+## 🎙 Events:
+
 * [Prisma Day (remote)](http://prisma.io/day)
 * [GraphQL Meetup (remote)](https://www.meetup.com/graphql-berlin/)
 * [TypeScript Meetup (remote)](https://www.meetup.com/TypeScript-Berlin/)
@@ -68,6 +70,7 @@ Not GraphQL
 * [Get started with Prisma v2. Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
 * [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 * [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
+
 #### YouTube
 * [Prisma Youtube Channel](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
 
