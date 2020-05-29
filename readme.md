@@ -1,23 +1,30 @@
 ![Awesome Prisma](https://i.imgur.com/MQdCTuN.png)
 
 <div align="center">
-  <a href="https://www.prisma.io/docs/getting-started/quickstart">Quickstart</a>
+  <a href="#tipping_hand_woman-about-this-list">:tipping_hand_woman: About this List</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/">Website</a>
+  <a href="#-docs">📚 Docs:</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/docs/">Docs</a>
+  <a href="#-events">🎙 Events:</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/prisma/prisma-examples/">Examples</a>
+  <a href="#-community-prisma-tools">🦺 Community Prisma Tools</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/blog">Blog</a>
+  <a href="#-how-tos">🤔 How Tos</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://slack.prisma.io/">Slack</a>
+  <a href="#-twitter">🐦 Twitter</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://twitter.com/prisma">Twitter</a>
+  <a href="#-tutorials">🏆‍ Tutorials</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.youtube.com/watch?v=0RhtQgIs-TE&list=PLn2e1F9Rfr6k9PnR_figWOcSHgc_erDr5&index=1">Demo videos</a>
+  <a href="#family_man_woman_girl_boy-community">:family_man_woman_girl_boy: Community</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/prisma/prisma1">Prisma 1</a>
+  <a href="#-projects-using-prisma">👾 Projects Using Prisma</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#contribute">Contribute</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#prisma-1">Prisma 1</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#license">License</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 </div>
 
 # awesome-prisma
@@ -29,23 +36,6 @@
 This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
 
 **Prisma is an open-source database toolkit**. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
-
-## Table of Contents
-
-- [awesome-prisma](#awesome-prisma)
-  - [:tipping_hand_woman: About this List](#tipping_hand_woman-about-this-list)
-  - [Table of Contents](#table-of-contents)
-  - [📚 Docs:](#-docs)
-  - [🎙 Events:](#-events)
-  - [🦺 Community Prisma Tools](#-community-prisma-tools)
-  - [🤔 How Tos](#-how-tos)
-  - [🐦 Twitter](#-twitter)
-  - [🏆‍ Tutorials](#-tutorials)
-  - [:family_man_woman_girl_boy: Community](#family_man_woman_girl_boy-community)
-  - [👾 Projects Using Prisma](#-projects-using-prisma)
-  - [Contribute](#contribute)
-  - [Prisma 1](#prisma-1)
-  - [License](#license)
 
 ## 📚 Docs:
 
