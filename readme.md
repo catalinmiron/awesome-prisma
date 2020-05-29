@@ -11,16 +11,16 @@ This is a collection of **awesome resources**  about [Prisma](https://www.prisma
 
 
 ## Table of Contents
-* Docs
-* Events
-* Community Prisma Tools
-* How Tos  
-* Projects Using Prisma
-* Tutorials
-* YouTube
-* Community
-* Contribute
-* License
+* [Docs](#-docs)
+* [Events](#-events)
+* [Community Prisma Tools](#-community-prisma-tools)
+* [How Tos](#-how-tos)
+* [Projects Using Prisma](#-projects-using-prisma)
+* [Tutorials](#-tutorials)
+* [YouTube](#-youtube)
+* [Community](#-community)
+* [Contribute](#-contribute)
+* [License](#-license)
 
 
 ## 📚 Docs:
