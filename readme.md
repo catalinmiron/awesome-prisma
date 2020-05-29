@@ -47,7 +47,7 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 * [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
     
-## 👩🏾‍🏫 How Tos
+## 🤔 How Tos
 * [How to GraphQL](https://www.howtographql.com/)
 * [PostgresQL Tutorials](https://www.prisma.io/tutorials/?tag=postgresql)
     
@@ -60,7 +60,7 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * [Prisma](http://twitter.com/prisma)
 * [Nexus](http://twitter.com/nexusgql)
     
-## 🦸🏿‍♂️ Tutorials
+## 🏆‍ Tutorials
 GraphQL
 * [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
 * [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
