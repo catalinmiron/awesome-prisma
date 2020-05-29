@@ -9,7 +9,19 @@
 
 This is a collection of ** awesome resources**  about [Prisma](https://www.prisma.io/ "Build a GraphQL server with any database") :heart_eyes:
 
-## Contents
+
+## Table of Contents
+* Docs
+* Events
+* Community Prisma Tools
+* How Tos  
+* Projects Using Prisma
+* Tutorials
+* YouTube
+* Community
+* Contribute
+* License
+
 
 ### Docs:
 *  [Prisma Docs](https://www.prisma.io/docs/)
