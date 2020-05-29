@@ -2,7 +2,7 @@ name: test
 on: push
 
 jobs:
-  build:
+  awesome-lint:
     runs-on: ubuntu-latest
 
     steps:
