@@ -47,20 +47,20 @@ This is a collection of ** awesome resources**  about [Prisma](https://www.prism
 * [Nexus](http://twitter.com/nexusgql)
     
 ### Tutorials
-    GraphQL
-    * [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
-    * [Lets take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
-    * [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
-* Not GraphQL
-    * [Get started with Prisma v2. Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
-    * [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
-    * [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
+GraphQL
+* [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
+* Lets take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
+* [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
+Not GraphQL
+* [Get started with Prisma v2. Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
+* [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
+* [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 #### YouTube
 * [Prisma Youtube Channel](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
 
 ## :family_man_woman_girl_boy:  Community
 
-*  [GitHub](https://github.com/prisma/prisma/)
+* [GitHub](https://github.com/prisma/prisma/)
 * [Website](https://prisma.io)
 * [Docs](https://prisma.io/docs/)
 * [Blog](https://prisma.io/blog)
