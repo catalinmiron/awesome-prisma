@@ -1,8 +1,9 @@
-<p align="center">
-    <img src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" width="300"/>
-</p>
-
-# awesome-prisma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align='center'>
+	<img width="500" src="logo.svg" alt="awesome-lint">
+  <br>
+  <a href='https://awesome.re'>
+	  <img src='https://awesome.re/badge.svg' alt='Awesome'>
+  </a>
   <p>This is a collection of awesome resources about <a href='https://www.prisma.io/' title='Build a GraphQL server with any database'>Prisma</a></p>
 </div>
 
