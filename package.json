@@ -1,9 +1,9 @@
 {
   "name": "awesome-prisma",
-	"scripts": {
-		"test": "awesome-lint"
-	},
-	"devDependencies": {
-		"awesome-lint": "*"
-	}
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
 }
