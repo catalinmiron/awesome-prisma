@@ -87,7 +87,8 @@ Tutorials with [Nexus](https://www.nexusjs.org/#/)
 
 ## Prisma 1
 
-This is the second iteration of the awesome Prisma list: [Awesome Prisma 1 list](https://github.com/etelsv/awesome-prisma/blob/master/awesome-prisma1.md)
+This is the second iteration of the awesome Prisma and focuses on Prisma 2.
+Check out the [Awesome Prisma 1 list](https://github.com/etelsv/awesome-prisma/blob/master/awesome-prisma1.md)
 
 ## Contribute
 
