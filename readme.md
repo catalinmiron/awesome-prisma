@@ -6,18 +6,16 @@
 
 ## Contents
 
-- [:tipping_hand_woman: About this List](#tippinghandwoman-about-this-list)
+- [:tipping_hand_woman: About this List](#tipping_hand_woman-about-this-list)
 - [:books: Docs](#books-docs)
-- [:studio_microphone: Events](#studiomicrophone-events)
-- [:safety_vest: Community Prisma Tools](#safetyvest-community-prisma-tools)
+- [:studio_microphone: Events](#studio_microphone-events)
+- [:safety_vest: Community Prisma Tools](#safety_vest-community-prisma-tools)
 - [:thinking: How Tos](#thinking-how-tos)
 - [:bird: Twitter](#bird-twitter)
 - [:trophy: Tutorials](#trophy-tutorials)
-- [:family_man_woman_girl_boy: Community](#familymanwomangirlboy-community)
-- [:space_invader: Projects Using Prisma](#spaceinvader-projects-using-prisma)
-- [Contribute](#contribute)
+- [:family_man_woman_girl_boy: Community](#family_man_woman_girl_boy-community)
+- [:space_invader: Projects Using Prisma](#space_invader-projects-using-prisma)
 - [Prisma 1](#prisma-1)
-- [License](#license)
 
 ## :tipping_hand_woman: About this List
 
@@ -87,13 +85,13 @@ Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## Prisma 1
 
 This is the second iteration of the awesome Prisma list: [Awesome Prisma 1 list](https://github.com/etelsv/awesome-prisma/blob/master/awesome-prisma1.md)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
