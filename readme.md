@@ -27,7 +27,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 </div>
 
-# awesome-prisma
+# Awesome Prisma
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -37,12 +37,12 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 **Prisma is an open-source database toolkit**. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
 
-## 📚 Docs:
+## 📚 Docs
 
 - [Prisma Docs](https://www.prisma.io/docs/)
 - [Prisma Examples](https://github.com/prisma/prisma-examples)
 
-## 🎙 Events:
+## 🎙 Events
 
 - [Prisma Day (remote)](http://prisma.io/day)
 - [GraphQL Meetup (remote)](https://www.meetup.com/graphql-berlin/)
