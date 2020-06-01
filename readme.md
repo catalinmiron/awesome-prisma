@@ -1,35 +1,23 @@
 ![Awesome Prisma](https://i.imgur.com/MQdCTuN.png)
 
-<div align="center">
-  <a href="#tipping_hand_woman-about-this-list">:tipping_hand_woman: About this List</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-docs">📚 Docs:</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-events">🎙 Events:</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-community-prisma-tools">🦺 Community Prisma Tools</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-how-tos">🤔 How Tos</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-twitter">🐦 Twitter</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-tutorials">🏆‍ Tutorials</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#family_man_woman_girl_boy-community">:family_man_woman_girl_boy: Community</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-projects-using-prisma">👾 Projects Using Prisma</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#contribute">Contribute</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#prisma-1">Prisma 1</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#license">License</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-</div>
-
 # Awesome Prisma
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Contents
+
+- [:tipping_hand_woman: About this List](#tippinghandwoman-about-this-list)
+- [:books: Docs](#books-docs)
+- [:studio_microphone: Events](#studiomicrophone-events)
+- [:safety_vest: Community Prisma Tools](#safetyvest-community-prisma-tools)
+- [:thinking: How Tos](#thinking-how-tos)
+- [:bird: Twitter](#bird-twitter)
+- [:trophy: Tutorials](#trophy-tutorials)
+- [:family_man_woman_girl_boy: Community](#familymanwomangirlboy-community)
+- [:space_invader: Projects Using Prisma](#spaceinvader-projects-using-prisma)
+- [Contribute](#contribute)
+- [Prisma 1](#prisma-1)
+- [License](#license)
 
 ## :tipping_hand_woman: About this List
 
@@ -37,18 +25,18 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 **Prisma is an open-source database toolkit**. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
 
-## 📚 Docs
+## :books: Docs
 
 - [Prisma Docs](https://www.prisma.io/docs/)
 - [Prisma Examples](https://github.com/prisma/prisma-examples)
 
-## 🎙 Events
+## :studio_microphone: Events
 
 - [Prisma Day (remote)](http://prisma.io/day)
 - [GraphQL Meetup (remote)](https://www.meetup.com/graphql-berlin/)
 - [TypeScript Meetup (remote)](https://www.meetup.com/TypeScript-Berlin/)
 
-## 🦺 Community Prisma Tools
+## :safety_vest: Community Prisma Tools
 
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
@@ -62,17 +50,17 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
 
-## 🤔 How Tos
+## :thinking: How Tos
 
 - [How to GraphQL](https://www.howtographql.com/)
 - [PostgresQL Tutorials](https://www.prisma.io/tutorials/?tag=postgresql)
 
-## 🐦 Twitter
+## :bird: Twitter
 
 - [Prisma](http://twitter.com/prisma)
 - [Nexus](http://twitter.com/nexusgql)
 
-## 🏆‍ Tutorials
+## :trophy: Tutorials
 
 - [Get started with Prisma v2. Prisma Client](https://egghead.io/playlists/get-started-with-prisma-v2-prisma-client-8bae)
 - [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
@@ -93,7 +81,7 @@ Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Slack](https://slack.prisma.io/)
 - [Twitter](https://twitter.com/prisma)
 
-## 👾 Projects Using Prisma
+## :space_invader: Projects Using Prisma
 
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
