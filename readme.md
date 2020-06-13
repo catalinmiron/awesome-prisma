@@ -75,6 +75,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 ### Tutorials with [NestJS](https://nestjs.com/)
 - [How to query your database using Prisma with NestJS](https://notiz.dev/blog/how-to-connect-nestjs-with-prisma)
 
+## :building_construction: Community Examples
+- [AhmedElywa/prisma-admin](https://github.com/AhmedElywa/prisma-admin) Admin UI to control your prisma project db
+
 ## :family_man_woman_girl_boy: Community
 
 - [GitHub](https://github.com/prisma/prisma/)
