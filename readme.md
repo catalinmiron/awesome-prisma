@@ -64,6 +64,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 - [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 - [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
+- [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 
 Tutorials with [Nexus](https://www.nexusjs.org/#/)
 
