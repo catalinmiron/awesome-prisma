@@ -47,6 +47,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [@prisma-tools/admin](https://prisma-tools.ahmedelywa.com/admin/generator)
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
+- [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ## :thinking: How Tos
 
@@ -65,11 +66,15 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 - [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
 - [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
+- [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
 
-Tutorials with [Nexus](https://www.nexusjs.org/#/)
-
+### Tutorials with [Nexus](https://www.nexusjs.org/#/)
+- [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
 - [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
 - [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
+
+### Tutorials with [NestJS](https://nestjs.com/)
+- [How to query your database using Prisma with NestJS](https://notiz.dev/blog/how-to-connect-nestjs-with-prisma)
 
 ## :family_man_woman_girl_boy: Community
 
