@@ -38,7 +38,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
-- [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com/generator/nexus)
+- [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
 - [CRUD generator for nexus](https://paljs.com/generator/nexus)
 - [CRUD generator for graphql-modules](https://paljs.com/generator/graphql-modules)
 - [CRUD generator for sdl-first approach](https://paljs.com/generator/sdl)
