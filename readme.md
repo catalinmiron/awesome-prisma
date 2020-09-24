@@ -91,6 +91,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
 
 ## Prisma 1
 
