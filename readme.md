@@ -21,7 +21,7 @@
 
 This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
 
-**Prisma is an open-source database toolkit**. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
+**Prisma is an open-source ORM**. It makes database access easy with type safety and an auto-generated query builder for TypeScript & Node.js.
 
 ## :books: Docs
 
