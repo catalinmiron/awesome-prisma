@@ -101,6 +101,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :space_invader: Projects Using Prisma
 
+- [Calendso](https://github.com/calendso/calendso)
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
