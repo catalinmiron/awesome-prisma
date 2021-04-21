@@ -38,17 +38,29 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
-- [@prisma-tools/nexus](https://prisma-tools.ahmedelywa.com/nexus/features)
-- [@prisma-tools/graphql-modules](https://prisma-tools.ahmedelywa.com/graphql-modules)
-- [@prisma-tools/sdl](https://prisma-tools.ahmedelywa.com/sdl)
-- [@prisma-tools/select](https://prisma-tools.ahmedelywa.com/select)
-- [@prisma-tools/delete](https://prisma-tools.ahmedelywa.com/delete)
-- [@prisma-tools/schema](https://prisma-tools.ahmedelywa.com/schema)
-- [@prisma-tools/admin](https://prisma-tools.ahmedelywa.com/admin/generator)
+- [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
+- [CRUD generator for nexus](https://paljs.com/generator/nexus)
+- [CRUD generator for graphql-modules](https://paljs.com/generator/graphql-modules)
+- [CRUD generator for sdl-first approach](https://paljs.com/generator/sdl)
+- [Prisma Select - solution for N + 1 issue](https://paljs.com/plugins/select)
+- [Prisma Delete - workaround missing cascade deletes function in prisma migration](https://paljs.com/plugins/delete)
+- [Prisma schema - convert schema.prisma file to javascript object or from Snake case to Camel case](https://paljs.com/cli/schema)
+- [Prisma admin React component](https://paljs.com/prisma-admin)
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
 - [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest)
+- [Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator)
+- [Schematics to add Prisma support to a NestJS application](https://github.com/marcjulian/nestjs-prisma)
+- [Prisma Schema SDL](https://github.com/amplication/prisma-schema-dsl)
+- [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
+- [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
+- [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
+
+### :gear: Schema Visualization Tools
+
 - [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
+- [prisma-uml](https://github.com/emyann/prisma-uml)
+- [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ## :thinking: How Tos
 
@@ -92,6 +104,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
 
 ## Prisma 1
 
