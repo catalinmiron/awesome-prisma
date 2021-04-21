@@ -49,6 +49,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
 - [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest)
+- [Prisma Schema SDL](https://github.com/amplication/prisma-schema-dsl)
 - [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
