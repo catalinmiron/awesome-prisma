@@ -61,6 +61,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
+- [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
 
 ## :thinking: How Tos
 
