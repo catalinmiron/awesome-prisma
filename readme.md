@@ -55,7 +55,6 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
-- [prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
 
 ### :gear: Schema Visualization Tools
 
@@ -63,6 +62,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 - [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
+- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
 
 ## :thinking: How Tos
 
