@@ -36,6 +36,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :safety_vest: Community Prisma Tools
 
+- [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
 - [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
