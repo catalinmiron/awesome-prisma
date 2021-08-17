@@ -36,7 +36,6 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :safety_vest: Community Prisma Tools
 
-- [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
 - [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
@@ -56,6 +55,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
+- [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 
 ### :gear: Schema Visualization Tools
 
