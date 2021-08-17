@@ -55,6 +55,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
+- [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ### :gear: Schema Visualization Tools
