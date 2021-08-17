@@ -56,6 +56,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
 - [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
+- [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ### :gear: Schema Visualization Tools
 
@@ -109,6 +110,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
 - [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## Prisma 1
 
