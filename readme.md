@@ -57,6 +57,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
 - [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [prisma-sequelize-generator](https://github.com/floydspace/prisma-sequelize-generator)
 
 ### :gear: Schema Visualization Tools
 
