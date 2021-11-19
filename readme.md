@@ -57,6 +57,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
 - [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [Prisma Schema Sorter - sort schema models, enums, generators and datasources](https://github.com/omar-dulaimi/prisma-schema-sorter)
 
 ### :gear: Schema Visualization Tools
 
