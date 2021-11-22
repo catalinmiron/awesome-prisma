@@ -57,6 +57,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
 - [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 
 ### :gear: Schema Visualization Tools
 
