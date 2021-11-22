@@ -65,6 +65,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 - [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
 - [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
+- [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 
 ## :thinking: How Tos
 
