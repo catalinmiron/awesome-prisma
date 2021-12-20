@@ -61,6 +61,10 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Schema Sorter - sort schema models, enums, generators and datasources](https://github.com/omar-dulaimi/prisma-schema-sorter)
 - [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 
+### :man_technologist: Prisma Clients
+
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py)
+
 ### :gear: Schema Visualization Tools
 
 - [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
