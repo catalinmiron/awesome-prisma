@@ -62,6 +62,10 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 - [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
 
+### :man_technologist: Prisma Clients
+
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py)
+
 ### :gear: Schema Visualization Tools
 
 - [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
