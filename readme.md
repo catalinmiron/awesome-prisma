@@ -61,6 +61,12 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Schema Sorter - sort schema models, enums, generators and datasources](https://github.com/omar-dulaimi/prisma-schema-sorter)
 - [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo)
+- [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
+
+### :man_technologist: Prisma Clients
+
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py)
+
 
 ### :gear: Schema Visualization Tools
 
