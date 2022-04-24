@@ -53,9 +53,9 @@
 
 ## :mag: GraphQL Server Development
 
-### GraphQL Yoga
+### GraphQL Yoga (new URL)
 
-- :package: [GraphQL Yoga](https://github.com/prisma/graphql-yoga 'Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience')
+- :package: [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga 'Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience. The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.')
 - :hammer: [Build a GraphQL Server with Prisma and graphql-yoga](https://www.prisma.io/docs/get-started/03-build-graphql-servers-with-prisma-TYPESCRIPT-t201/)
 - :eyes: [Collection of GraphQL Yoga Examples](https://github.com/prisma/graphql-yoga/tree/master/examples)
 
