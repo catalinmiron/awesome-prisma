@@ -62,6 +62,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo)
 - [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
+- [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Prisma Class Validator Generator - Prisma 2+ generator to emit typescript models of your database with class validator](https://github.com/omar-dulaimi/prisma-class-validator-generator)
 
 ### :man_technologist: Prisma Clients
