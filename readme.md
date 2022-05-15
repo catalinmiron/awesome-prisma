@@ -63,6 +63,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo)
 - [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
+- [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix)
 - [Prisma Joi Generator - Prisma +2 generator to emit Joi schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-joi-generator)
 
 ### :man_technologist: Prisma Clients
