@@ -98,6 +98,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 - [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
 - [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
+- [Build A Pet Management System With Remix, Prisma, and Postgres](https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
@@ -126,6 +127,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 - [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+- [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 
 ## Prisma 1
 
