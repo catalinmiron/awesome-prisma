@@ -79,6 +79,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
 - [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 - [Prisma Editor - A powerful tool to visualize and edit Prisma Schema](https://github.com/mohammed-bahumaish/prisma-editor)
+- [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown)
 
 
 ## :thinking: How Tos
