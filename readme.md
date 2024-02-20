@@ -64,6 +64,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix)
+- [Prisma tRPC Shield Generator - Emit a tRPC shield from your Prisma schema](https://github.com/omar-dulaimi/prisma-trpc-shield-generator)
 
 ### :man_technologist: Prisma Clients
 
