@@ -65,6 +65,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix)
 - [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock)
+- [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast)
 
 ### :man_technologist: Prisma Clients
 
