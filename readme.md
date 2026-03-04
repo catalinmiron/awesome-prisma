@@ -138,6 +138,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 - [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hostable platform for managing AI IDE configuration files across 30+ coding assistants. Built with Next.js, Prisma, PostgreSQL, and Tailwind CSS.
 
 ## Prisma 1
 
