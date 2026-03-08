@@ -138,6 +138,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 - [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
+- [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time OSINT conflict-tracking dashboard with AI-powered intelligence briefs, built with Next.js, React, Prisma, Supabase, and DeckGL.
 
 ## Prisma 1
 
