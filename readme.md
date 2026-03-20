@@ -138,6 +138,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 - [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
+- [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel & EV route planner using Prisma with PostGIS for spatial queries across 31 countries
 
 ## Prisma 1
 
