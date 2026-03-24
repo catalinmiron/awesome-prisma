@@ -135,6 +135,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 - [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
+- [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas) - AI-native SaaS starter with Prisma, PostgreSQL, Next.js 16, Auth.js v5, Stripe, and OpenAI streaming chat
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 - [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
